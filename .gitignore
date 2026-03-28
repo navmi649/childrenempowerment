@@ -1,0 +1,13 @@
+# Ignore build artifacts
+target/
+bin/
+*.class
+
+# Ignore IDE settings
+.idea/
+.vscode/
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
